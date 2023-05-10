@@ -1,3 +1,7 @@
+![hw1](https://github.com/ardacantk/Spend-Money/assets/95983921/a56b444e-6b95-4edf-8c30-33ff5e0b62bc)
+![hw2](https://github.com/ardacantk/Spend-Money/assets/95983921/493678bb-2115-4bb1-91b3-9cc4bed6af86)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
